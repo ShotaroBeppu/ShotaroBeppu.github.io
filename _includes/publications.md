@@ -14,7 +14,7 @@ Health and macroeconomic outcomes varied substantially across prefectures in Jap
 
 ### Working Papers
 
-*Diffusion of war through arms trade* [pdf](../assets/files/paper/weapon_network_102023.pdf)<br>
+*Diffusion of war through arms trade* [pdf](../assets/files/paper/weapon_network.pdf)<br>
 October 2023
 
 <details style="margin-bottom: 15px; margin-top: -15px">
