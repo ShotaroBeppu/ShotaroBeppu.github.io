@@ -10,7 +10,9 @@ Hi! I am a Project Associate at <a href="https://urbanlabs.uchicago.edu/labs/ene
 
 ## Research Interests
 
-- Spatial (How trade, transportation, and cities can improve people's lives through connections)
+How trade, transportation, and cities can improve people's lives through connections
+
+- Spatial economics
 - Currently exploring environment economics
 
 {% include_relative _includes/publications.md %} {{< mdl-disable "<!-- markdownlint-disable MD037 -->" >}}
