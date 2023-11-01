@@ -12,7 +12,7 @@ Hi! I am a Project Associate at [UChicago Urban Labs E&E Lab](https://urbanlabs.
 
 ## Research Interests
 
-- Spatial, Environment, Development Economics
-- Networks in general!
+- Spatial (How trade, transportation, and cities can improve people's lives through connections)
+- Currently exploring environment economics
 
 {% include_relative _includes/publications.md %} {{< mdl-disable "<!-- markdownlint-disable MD037 -->" >}}
