@@ -2,7 +2,7 @@
 
 ### Published
 
-*Cross-regional heterogeneity in health and economic outcomes during the COVID-19 pandemic: An analysis of Japan* [link](https://www.sciencedirect.com/science/article/abs/pii/S0889158323000308)<br>
+*Cross-regional heterogeneity in health and economic outcomes during the COVID-19 pandemic: An analysis of Japan* [pub](https://www.sciencedirect.com/science/article/abs/pii/S0889158323000308)<br>
 S Beppu, D Fujii, H Kubota, K Machi, Y Maeda, T Nakata, H Shibuya. 2023. Journal of the Japanese and International Economies
 
 <details style="margin-bottom: 15px; margin-top: -15px">
@@ -14,7 +14,7 @@ Health and macroeconomic outcomes varied substantially across prefectures in Jap
 
 ### Working Papers
 
-*Diffusion of war through arms trade* [link](../assets/files/paper/weapon_network_102023.pdf)<br>
+*Diffusion of war through arms trade* [pdf](../assets/files/paper/weapon_network_102023.pdf)<br>
 October 2023
 
 <details style="margin-bottom: 15px; margin-top: -15px">
@@ -34,7 +34,7 @@ How did technological innovation in steamships affect shipping, trade, and devel
 </div>
 </details>
 
-*Stability of trading blocs* [link](../assets/files/paper/stability_of_trading_blocs.pdf)<br>
+*Stability of trading blocs* [pdf](../assets/files/paper/stability_of_trading_blocs.pdf)<br>
 August 2021<br>
 Showcased project in Pembroke Summer Online Research Program 2021
 
@@ -73,7 +73,7 @@ Using a pilot RCT study which made a portion of users switch their default searc
 </div>
 </details>
 
-*Role of machine and organizational structure in science* [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280) <br>
+*Role of machine and organizational structure in science* [pub](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280) <br>
 MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One  
 
 <details style="margin-bottom: 15px; margin-top: -15px">
