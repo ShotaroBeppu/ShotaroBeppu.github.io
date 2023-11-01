@@ -32,7 +32,7 @@ November 2023 (draft soon)
 <div style="text-align: justify">
 How did technological innovation in steamships affect shipping, trade, and development? The first era of globalization in the 19th century and its relationship with the transition from sailing ships to steamships can provide important historical findings and valuable insights into the age of globalization and technological innovation today. To answer this question, this research first digitized shipping data (Lloyd’s Shipping Index) by applying deep learning methods. With this global data, this research finds mainly four insights related to the advent of steamships. First, the spread of steamships is intertwined with geographic characteristics. Longer distance travel is less likely to use steamships even if it takes less time. Attributes of ports also matter in whether steamships enter rapidly. Second, this research documents port-level changes induced by steamships. Surprisingly, ports likely to benefit more from steamships due to shorter time do not necessarily become essential nor increase their tonnage volumes. Third, countries that experienced a shorter duration than the rest of the world seem to benefit from steamships. Using the exogenous shock due to technological innovation, economic indicators such as GDP and urbanization increased for those with more exposure to steamships. Lastly, this research also finds the divergent effect of steamships. Following the specification used in the third result, steamships hurt colonized countries. This research also provides evidence of the importance of institutions and baseline urbanization for benefiting from this technological change.
 </div>
- </details>
+</details>
 
 *Stability of trading blocs* [link](../assets/files/paper/stability_of_trading_blocs.pdf)<br>
 August 2021<br>
@@ -51,7 +51,7 @@ In recent decades the world has seen an increasing number of regional trade agre
 with Tomoki Nishiyama <br>
 JADE Youth Conference 2023
 
-###  Others
+### Others
 
 *Role of machine and organizational structure in science* [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280) <br>
 MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One  
