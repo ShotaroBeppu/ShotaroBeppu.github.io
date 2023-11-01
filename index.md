@@ -11,4 +11,4 @@ Hi! I am a Project Associate at [UChicago Urban Labs E&E Lab](https://urbanlabs.
 - Spatial, Environment, Development Economics
 - Networks in general!
 
-{% include_relative ../_includes/publications.md %}
+{% include_relative _includes/publications.md %} {{< mdl-disable "<!-- markdownlint-disable MD037 -->" >}}
