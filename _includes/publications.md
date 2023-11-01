@@ -44,7 +44,8 @@ In recent decades the world has seen an increasing number of regional trade agre
 ### Ongoing
 
 *Are Tricycle Fares Fair?*
-S Beppu, T Nishiyama. 2023  
+<br>
+with Tomoki Nishiyama.  
 <br>
 JADE Youth Conference 2023
 
@@ -52,7 +53,6 @@ JADE Youth Conference 2023
 
 *Role of machine and organizational structure in science* [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280)
 <br>
-
 MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One  
 
 <details style="margin-bottom: 15px; margin-top: -15px">
