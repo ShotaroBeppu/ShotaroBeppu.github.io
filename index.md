@@ -11,12 +11,4 @@ Hi! I am a Project Associate at [UChicago Urban Labs E&E Lab](https://urbanlabs.
 - Spatial, Environment, Development Economics
 - Networks in general!
 
-<!-- ## Brief CV
-
-2020 - present: Ph.D., [IST Austria](https://ist.ac.at/en/home/)
-2018 - 2020: M.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)
-2015 - 2018: B.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/) -->
-
-{% include_relative_includes/publications.md %}
-
-<!-- {% include_relative_includes/theses.md %} -->
+{% include_relative ../_includes/publications.md %}
