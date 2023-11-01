@@ -53,6 +53,26 @@ JADE Youth Conference 2023
 
 ### Others
 
+*Agglomeration*  <br>
+Master's summer capstone under Professor Dave Donaldson <br>
+
+<details style="margin-bottom: 15px; margin-top: -15px">
+<summary>Abstract</summary>
+<div style="text-align: justify">
+Using census and commuting matrix (LODES), I estimate agglomeration effect for cities in the Midwest using nonlinear estimation akin to RDD.
+</div>
+</details>
+
+*Search Market Competition*  <br>
+Master's summer capstone under Professor Tobias Salz <br>
+
+<details style="margin-bottom: 15px; margin-top: -15px">
+<summary>Abstract</summary>
+<div style="text-align: justify">
+Using a pilot RCT study which made a portion of users switch their default search engine, I estimate how default setting matters in which search engine they use and how this effect differs by different search engines and browsers as well as perception in quality.
+</div>
+</details>
+
 *Role of machine and organizational structure in science* [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280) <br>
 MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One  
 
