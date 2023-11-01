@@ -1,30 +1,30 @@
 # Basic Information 
-title: Asbjørn Bækgaard Lauritsen
-position: Ph.D. Student
-affiliation: IST Austria, Klosterneuburg, Austria
-affiliation_link: https://ist.ac.at/en/home/
-email: alaurits (at) ist.ac.at
-email_link: mailto:alaurits@ist.ac.at
+title: Shotaro Beppu
+position: Project Associate
+affiliation: UChicago Urban Labs E&E Lab
+affiliation_link: https://urbanlabs.uchicago.edu/labs/energy-environment
+email: shotarobeppu0811@gmail.com
+email_link: mailto:shotarobeppu0811@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Asbjørn Bækgaard Lauritsen
-description: Personal website of Asbjørn Bækgaard Lauritsen
-canonical: https://ablauritsen.github.io
+keywords: Shotaro Beppu
+description: Personal website of Shotaro Beppu
+canonical: https://shotarobeppu.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.at/citations?user=KxWuZ2kAAAAJ&hl=en
-cv_link: assets/files/CV_web.pdf
-github_link: https://github.com/ABLauritsen
-orcid: https://orcid.org/0000-0003-4476-2288
+google_scholar: https://scholar.google.com/citations?user=ygPDGzQAAAAJ&hl=en
+cv_link: ./assets/files/cv/shotarobeppu_cv.pdf
+github_link: https://github.com/shotarobeppu
+# orcid: https://orcid.org/0000-0003-4476-2288
 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/foto_cropped.jpg
-#favicon: ./assets/img/avatar.png
-#favicon_dark: ./assets/img/avatar.png
+avatar: ./assets/img/self.jpeg
+favicon: ./assets/img/uchicago.png
+favicon_dark: ./assets/img/uchicago.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

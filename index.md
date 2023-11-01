@@ -4,21 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in mathematical physics at [IST Austria](https://ist.ac.at/en/home/) in the group of [Robert Seiringer](https://ist.ac.at/en/research/seiringer-group/).
-Prior to this I did my master's degree at the [University of Copenhagen](https://www.math.ku.dk/english/), 
-where I wrote my thesis under supervision of Jan Philip Solovej.
+Hi! I am a Project Associate at [UChicago Urban Labs E&E Lab](https://urbanlabs.uchicago.edu/labs/energy-environment) from September 2023. Prior to this I was a master's student at [MIT DEDP program](https://economics.mit.edu/academic-programs/masters-programs/masters-data-economics-and-design-policy-dedp) and an undergraduate at the [University of Tokyo, Faculty of Engineering](https://www.si.t.u-tokyo.ac.jp/course/psi/).
 
 ## Research Interests
 
-I am interested in the mathematics of many-body quantum systems. 
-More specifically, in my Ph.D. project I study the ground state energy of a dilute spin-polarized Fermi gas.
+- Spatial, Environment, Development Economics
+- Networks in general!
 
-## Brief CV
+<!-- ## Brief CV
 
-2020 - present: Ph.D., [IST Austria](https://ist.ac.at/en/home/)   
-2018 - 2020: M.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)   
-2015 - 2018: B.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)
+2020 - present: Ph.D., [IST Austria](https://ist.ac.at/en/home/)
+2018 - 2020: M.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/)
+2015 - 2018: B.Sc. in mathematics, [University of Copenhagen](https://www.math.ku.dk/english/) -->
 
-{% include_relative _includes/publications.md %}
+{% include_relative_includes/publications.md %}
 
-{% include_relative _includes/theses.md %}
+<!-- {% include_relative_includes/theses.md %} -->
