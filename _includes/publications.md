@@ -2,7 +2,7 @@
 
 ### Published
 
-*Cross-regional heterogeneity in health and economic outcomes during the COVID-19 pandemic: An analysis of Japan* [pub](https://www.sciencedirect.com/science/article/abs/pii/S0889158323000308)<br>
+*Cross-regional heterogeneity in health and economic outcomes during the COVID-19 pandemic: An analysis of Japan* [pub](https://www.sciencedirect.com/science/article/abs/pii/S0889158323000308) [pdf](../assets/files/paper/covid_vsl.pdf)<br>
 S Beppu, D Fujii, H Kubota, K Machi, Y Maeda, T Nakata, H Shibuya. 2023. Journal of the Japanese and International Economies
 
 <details style="margin-bottom: 15px; margin-top: -15px">
@@ -73,7 +73,7 @@ Using a pilot RCT study which made a portion of users switch their default searc
 </div>
 </details>
 
-*Role of machine and organizational structure in science* [pub](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280) <br>
+*Role of machine and organizational structure in science* [pub](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280) [pdf](../assets/files/paper/ml_team.pdf)<br>
 MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One  
 
 <details style="margin-bottom: 15px; margin-top: -15px">
