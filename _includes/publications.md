@@ -3,7 +3,8 @@
 ### Published
 
 *Cross-regional heterogeneity in health and economic outcomes during the COVID-19 pandemic: An analysis of Japan* [pub](https://www.sciencedirect.com/science/article/abs/pii/S0889158323000308) [pdf](../assets/files/paper/covid_vsl.pdf)<br>
-S Beppu, D Fujii, H Kubota, K Machi, Y Maeda, T Nakata, H Shibuya. 2023. Journal of the Japanese and International Economies
+S Beppu, D Fujii, H Kubota, K Machi, Y Maeda, T Nakata, H Shibuya. 2023. Journal of the Japanese and International Economies <br>
+[website](https://www.bicea.e.u-tokyo.ac.jp/) for covid-19 analysis in Japan
 
 <details style="margin-bottom: 15px; margin-top: -15px">
 <summary>Abstract</summary>
@@ -24,8 +25,9 @@ International trade and conflicts are key aspects of this world. In particular, 
 </div>
 </details>
 
-*Impact of steamships on maritime network and trade*<br>
-November 2023 (draft soon)
+*Impact of steamships on maritime network and trade*<br> (updated draft soon)
+November 2023 <br>
+JSCE IP Autumn 2022
 
 <details style="margin-bottom: 15px; margin-top: -15px">
 <summary>Abstract</summary>
@@ -36,7 +38,7 @@ How did technological innovation in steamships affect shipping, trade, and devel
 
 *Stability of trading blocs* [pdf](../assets/files/paper/stability_of_trading_blocs.pdf)<br>
 August 2021<br>
-Showcased project in Pembroke Summer Online Research Program 2021
+Showcased project in Pembroke Online Summer Research Program 2021
 
 <details style="margin-bottom: 15px; margin-top: -15px">
 <summary>Abstract</summary>
