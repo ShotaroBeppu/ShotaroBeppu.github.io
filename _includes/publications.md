@@ -15,6 +15,17 @@ Health and macroeconomic outcomes varied substantially across prefectures in Jap
 
 ### Working Papers
 
+*Impact of steamships on maritime network and trade* [pdf](../assets/files/paper/steamship_extensive.pdf)<br>
+November 2023 <br>
+JSCE IP Autumn 2022
+
+<details style="margin-bottom: 15px; margin-top: -15px">
+<summary>Abstract</summary>
+<div style="text-align: justify">
+Transportation technology allows more market integration. The benefit could be unequal due to the adoption of this technology. This paper studies the rapid adoption of steamships in the late 19th century and its effect on the First Globalization and the Great Divergence. For this, this paper uses a novel deep-learning method to digitize historical shipping data to analyze the transition from sailing to steamships and the change in worldwide shipping patterns. Using the change in duration, this paper shows that the advent of steamships in- creased trade and growth on average. However, colonized countries experienced insignificant gains. To understand the mechanism, this paper incorporates differences in shipping tech- nology to trade with heterogeneous firms. The estimate points out that the advantage of steamships might not have been captured due to the high cost of adoption for trade links involving colonies. This provides further insights into how shipping technology affects eco- nomic activity through trade and how the fixed cost of adoption matters in gains from such technology.
+</div>
+</details>
+
 *Diffusion of war through arms trade* [pdf](../assets/files/paper/weapon_network.pdf)<br>
 October 2023
 
@@ -22,17 +33,6 @@ October 2023
 <summary>Abstract</summary>  
 <div style="text-align: justify">
 International trade and conflicts are key aspects of this world. In particular, weapons are traded across the world and civil wars take place in multiple regions. However, not much is known about how those two are related. This paper combines methods in international trade, network analysis, and literature in both empirical and theoretical conflict to state the importance of this overlooked relationship. This paper uses the shift-share design and network measure derived from the Cournot competition in multiple markets to find significant weapons reallocation to other countries after a ceasefire. This paper then tests insights from a bargaining model with an imperfectly observed claim to illustrate how this exogenous increase in weapons may lead to conflicts. Using the predicted change in weapons due to the reallocation as an instrument, an increase in weapons led to more conflicts. Transparency of weapons trade, however, can counteract this rise in conflict.
-</div>
-</details>
-
-*Impact of steamships on maritime network and trade*<br> (updated draft soon)
-November 2023 <br>
-JSCE IP Autumn 2022
-
-<details style="margin-bottom: 15px; margin-top: -15px">
-<summary>Abstract</summary>
-<div style="text-align: justify">
-How did technological innovation in steamships affect shipping, trade, and development? The first era of globalization in the 19th century and its relationship with the transition from sailing ships to steamships can provide important historical findings and valuable insights into the age of globalization and technological innovation today. To answer this question, this research first digitized shipping data (Lloyd’s Shipping Index) by applying deep learning methods. With this global data, this research finds mainly four insights related to the advent of steamships. First, the spread of steamships is intertwined with geographic characteristics. Longer distance travel is less likely to use steamships even if it takes less time. Attributes of ports also matter in whether steamships enter rapidly. Second, this research documents port-level changes induced by steamships. Surprisingly, ports likely to benefit more from steamships due to shorter time do not necessarily become essential nor increase their tonnage volumes. Third, countries that experienced a shorter duration than the rest of the world seem to benefit from steamships. Using the exogenous shock due to technological innovation, economic indicators such as GDP and urbanization increased for those with more exposure to steamships. Lastly, this research also finds the divergent effect of steamships. Following the specification used in the third result, steamships hurt colonized countries. This research also provides evidence of the importance of institutions and baseline urbanization for benefiting from this technological change.
 </div>
 </details>
 
@@ -49,7 +49,7 @@ In recent decades the world has seen an increasing number of regional trade agre
 
 ### Ongoing
 
-*Are Tricycle Fares Fair?* <br>
+*Uncovering the border‐crossing cost in transportation* <br>
 with Tomoki Nishiyama <br>
 JADE Youth Conference 2023
 
