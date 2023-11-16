@@ -15,7 +15,7 @@ Health and macroeconomic outcomes varied substantially across prefectures in Jap
 
 ### Working Papers
 
-*Impact of steamships on maritime network and trade* [pdf](../assets/files/paper/steamship_extensive.pdf)<br>
+*Technology with unequal gains: Steamship and globalization* [pdf](../assets/files/paper/steamship_extensive.pdf)<br>
 November 2023 <br>
 JSCE IP Autumn 2022
 
