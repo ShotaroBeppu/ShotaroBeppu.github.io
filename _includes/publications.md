@@ -16,7 +16,7 @@ Health and macroeconomic outcomes varied substantially across prefectures in Jap
 ### Working Papers
 
 *Technology with unequal gains: Steamship and globalization* [pdf](../assets/files/paper/steamship_extensive.pdf)<br>
-November 2023 <br>
+December 2023 <br>
 JSCE IP Autumn 2022
 
 <details style="margin-bottom: 15px; margin-top: -15px">
