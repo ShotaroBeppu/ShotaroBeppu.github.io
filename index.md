@@ -16,4 +16,6 @@ How trade, transportation, and cities can improve people's lives through connect
 - Spatial economics
 - Currently exploring environment economics
 
+<br>
+
 {% include_relative _includes/publications.md %} {{< mdl-disable "<!-- markdownlint-disable MD037 -->" >}}
