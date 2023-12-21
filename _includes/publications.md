@@ -47,12 +47,6 @@ In recent decades the world has seen an increasing number of regional trade agre
 </div>
 </details>
 
-### Ongoing
-
-*Uncovering the border‐crossing cost in transportation* <br>
-with Tomoki Nishiyama <br>
-JADE Youth Conference 2023
-
 ### Others
 
 *Agglomeration*  <br>
@@ -76,7 +70,7 @@ Using a pilot RCT study which made a portion of users switch their default searc
 </details>
 
 *Role of machine and organizational structure in science* [pub](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280) [pdf](../assets/files/paper/ml_team.pdf)<br>
-MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One  
+MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One  <br>
 
 <details style="margin-bottom: 15px; margin-top: -15px">
 <summary>Abstract</summary>
@@ -84,3 +78,7 @@ MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One
 The progress of science increasingly relies on machine learning (ML) and machines work alongside humans in various domains of science. This study investigates the team structure of ML-related projects and analyzes the contribution of ML to scientific knowledge production under different team structure, drawing on bibliometric analyses of 25,000 scientific publications in various disciplines. Our regression analyses suggest that (1) interdisciplinary collaboration between domain scientists and computer scientists as well as the engagement of interdisciplinary individuals who have expertise in both domain and computer sciences are common in ML-related projects; (2) the engagement of interdisciplinary individuals seem more important in achieving high impact and novel discoveries, especially when a project employs computational and domain approaches interdependently; and (3) the contribution of ML and its implication to team structure depend on the depth of ML.
 </div>
 </details>
+
+*Uncovering the border‐crossing cost in transportation* <br>
+with Tomoki Nishiyama <br>
+JADE Youth Conference 2023
