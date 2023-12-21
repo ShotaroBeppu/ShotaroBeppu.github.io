@@ -80,5 +80,5 @@ Using a pilot RCT study which made a portion of users switch their default searc
 </details>
 
 *Uncovering the border‐crossing cost in transportation* <br>
-with Tomoki Nishiyama <br>
-JADE Youth Conference 2023
+Group project by Sawada seminar (Univ. Tokyo) <br>
+JADE Youth Conference 2023 (by Tomoki Nishiyama)
