@@ -13,7 +13,7 @@ Hi! I am a Project Associate at <a href="https://urbanlabs.uchicago.edu/labs/ene
 
 How trade, transportation, and cities can improve people's lives through connections<br>
 
-- Spatial economics
+- Spatial and development economics
 - Currently exploring environment economics
 
 <br>
