@@ -1,18 +1,5 @@
 ## Research  
 
-### Published
-
-*Cross-regional heterogeneity in health and economic outcomes during the COVID-19 pandemic: An analysis of Japan* [pub](https://www.sciencedirect.com/science/article/abs/pii/S0889158323000308) [pdf](../assets/files/paper/covid_vsl.pdf)<br>
-S Beppu, D Fujii, H Kubota, K Machi, Y Maeda, T Nakata, H Shibuya. 2023. Journal of the Japanese and International Economies <br>
-[website](https://www.bicea.e.u-tokyo.ac.jp/) for covid-19 analysis in Japan
-
-<details style="margin-bottom: 15px; margin-top: -15px">
-<summary>Abstract</summary>
-<div style="text-align: justify">
-Health and macroeconomic outcomes varied substantially across prefectures in Japan during the COVID-19 crisis. Using an estimated macro-epidemiological model as well as the idea of revealed preference, we compute the marginal rate of substitution (MRS) and the conditional trade-off curve between health and economic outcomes in each prefecture. We find that there is a large heterogeneity in the MRS as well as the location and shape of the conditional trade-off curve.
-</div>
-</details>
-
 ### Working Papers
 
 *Technology with unequal gains: Steamship and globalization* [pdf](../assets/files/paper/steamship_extensive.pdf)<br>
@@ -47,6 +34,29 @@ In recent decades the world has seen an increasing number of regional trade agre
 </div>
 </details>
 
+### Published
+
+*Cross-regional heterogeneity in health and economic outcomes during the COVID-19 pandemic: An analysis of Japan* [pub](https://www.sciencedirect.com/science/article/abs/pii/S0889158323000308) [pdf](../assets/files/paper/covid_vsl.pdf)<br>
+S Beppu, D Fujii, H Kubota, K Machi, Y Maeda, T Nakata, H Shibuya. 2023. Journal of the Japanese and International Economies <br>
+[website](https://www.bicea.e.u-tokyo.ac.jp/) for covid-19 analysis in Japan
+
+<details style="margin-bottom: 15px; margin-top: -15px">
+<summary>Abstract</summary>
+<div style="text-align: justify">
+Health and macroeconomic outcomes varied substantially across prefectures in Japan during the COVID-19 crisis. Using an estimated macro-epidemiological model as well as the idea of revealed preference, we compute the marginal rate of substitution (MRS) and the conditional trade-off curve between health and economic outcomes in each prefecture. We find that there is a large heterogeneity in the MRS as well as the location and shape of the conditional trade-off curve.
+</div>
+</details>
+
+*Role of machine and organizational structure in science* [pub](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280) [pdf](../assets/files/paper/ml_team.pdf)<br>
+MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One  <br>
+
+<details style="margin-bottom: 15px; margin-top: -15px">
+<summary>Abstract</summary>
+<div style="text-align: justify">
+The progress of science increasingly relies on machine learning (ML) and machines work alongside humans in various domains of science. This study investigates the team structure of ML-related projects and analyzes the contribution of ML to scientific knowledge production under different team structure, drawing on bibliometric analyses of 25,000 scientific publications in various disciplines. Our regression analyses suggest that (1) interdisciplinary collaboration between domain scientists and computer scientists as well as the engagement of interdisciplinary individuals who have expertise in both domain and computer sciences are common in ML-related projects; (2) the engagement of interdisciplinary individuals seem more important in achieving high impact and novel discoveries, especially when a project employs computational and domain approaches interdependently; and (3) the contribution of ML and its implication to team structure depend on the depth of ML.
+</div>
+</details>
+
 ### Others
 
 *Agglomeration*  <br>
@@ -66,16 +76,6 @@ Master's summer capstone under Professor Tobias Salz <br>
 <summary>Abstract</summary>
 <div style="text-align: justify">
 Using a pilot RCT study which made a portion of users switch their default search engine, I estimate how default setting matters in which search engine they use and how this effect differs by different search engines and browsers as well as perception in quality.
-</div>
-</details>
-
-*Role of machine and organizational structure in science* [pub](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272280) [pdf](../assets/files/paper/ml_team.pdf)<br>
-MK Thu, S Beppu, M Yarime, S Shibayama. 2022. Plos One  <br>
-
-<details style="margin-bottom: 15px; margin-top: -15px">
-<summary>Abstract</summary>
-<div style="text-align: justify">
-The progress of science increasingly relies on machine learning (ML) and machines work alongside humans in various domains of science. This study investigates the team structure of ML-related projects and analyzes the contribution of ML to scientific knowledge production under different team structure, drawing on bibliometric analyses of 25,000 scientific publications in various disciplines. Our regression analyses suggest that (1) interdisciplinary collaboration between domain scientists and computer scientists as well as the engagement of interdisciplinary individuals who have expertise in both domain and computer sciences are common in ML-related projects; (2) the engagement of interdisciplinary individuals seem more important in achieving high impact and novel discoveries, especially when a project employs computational and domain approaches interdependently; and (3) the contribution of ML and its implication to team structure depend on the depth of ML.
 </div>
 </details>
 
