@@ -2,7 +2,7 @@
 
 ### Working Papers
 
-*Technology with unequal gains: Steamship and globalization* [pdf](../assets/files/paper/steamship_extensive.pdf)<br>
+*Technology with unequal gains: Steamship and globalization* [pdf](../assets/files/paper/steamship_extensive.pdf) [slides](../assets/files/paper/steamship_extensive_slides.pdf)<br>
 December 2023 <br>
 JSCE IP Autumn 2022
 
