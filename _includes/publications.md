@@ -4,7 +4,7 @@
 
 *Technology with unequal gains: Steamship and globalization* [pdf](../assets/files/paper/steamship_extensive.pdf) [slides](../assets/files/paper/steamship_extensive_slides.pdf)<br>
 December 2023 <br>
-JSCE IP Autumn 2022
+JSCE IP Autumn 2022, UTokyo CREPE 2023
 
 <details style="margin-bottom: 15px; margin-top: -15px">
 <summary>Abstract</summary>
