@@ -9,7 +9,7 @@ Hi! I am a Ph.D. student in Economics at Harvard University (starting fall 2024)
 
 Prior to this, I worked at <a href="https://urbanlabs.uchicago.edu/labs/energy-environment">UChicago Urban Labs E&E Lab</a> studying spatial/environmental economics.
 
-I received a Master's in Applied Science from MIT's <a href="https://economics.mit.edu/academic-programs/masters-programs/masters-data-economics-and-design-policy-dedp">DEDP program</a> in August and Bachelor of Engineering from the University of Tokyo in March 2023.
+I received a Master of Applied Science from MIT's <a href="https://economics.mit.edu/academic-programs/masters-programs/masters-data-economics-and-design-policy-dedp">DEDP program</a> in August and Bachelor of Engineering from the University of Tokyo in March 2023.
 </div>
 
 <!-- <br> -->
