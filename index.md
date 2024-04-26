@@ -5,7 +5,7 @@ layout: homepage
 <!-- (Last updated: April 2024)<br> -->
 
 <div style="text-align: justify">
-Hi! I am a Ph.D. student in Economics at <a href="https://economics.harvard.edu/">Harvard University</a>. I like to analyze networks (trade, transportation, cities with full of exchanges) and historical events for understanding growth.
+Hi! I am a Ph.D. student in Economics at <a href="https://economics.harvard.edu/">Harvard University</a> from fall 2024. I like to analyze networks (trade, transportation, and cities with full of exchanges) and historical events for understanding growth.
 
 Prior to this, I worked at <a href="https://urbanlabs.uchicago.edu/labs/energy-environment">UChicago Urban Labs</a> studying spatial/environmental economics.
 
