@@ -25,7 +25,6 @@ International trade and conflicts are key aspects of this world. In particular, 
 
 *Stability of trading blocs* [pdf](../assets/files/paper/stability_of_trading_blocs.pdf)<br>
 August 2021<br>
-Showcased project in Pembroke Online Summer Research Program 2021
 
 <details style="margin-bottom: 15px; margin-top: -15px">
 <summary>Abstract</summary>

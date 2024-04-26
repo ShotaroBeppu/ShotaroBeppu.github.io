@@ -2,14 +2,14 @@
 layout: homepage
 ---
 
-(Last updated: April 2024)<br>
+<!-- (Last updated: April 2024)<br> -->
 
 <div style="text-align: justify">
-Hi! I am a Ph.D. student in Economics at Harvard University (starting fall 2024). I like to analyze networks (trade, transportation, cities with full of exchanges) and historical events.
+Hi! I am a Ph.D. student in Economics at <a href="https://economics.harvard.edu/">Harvard University</a>. I like to analyze networks (trade, transportation, cities with full of exchanges) and historical events for understanding growth.
 
-Prior to this, I worked at <a href="https://urbanlabs.uchicago.edu/labs/energy-environment">UChicago Urban Labs E&E Lab</a> studying spatial/environmental economics.
+Prior to this, I worked at <a href="https://urbanlabs.uchicago.edu/labs/energy-environment">UChicago Urban Labs</a> studying spatial/environmental economics.
 
-I received a Master of Applied Science from MIT's <a href="https://economics.mit.edu/academic-programs/masters-programs/masters-data-economics-and-design-policy-dedp">DEDP program</a> and Bachelor of Engineering from the University of Tokyo in 2023.
+I received a Master of Applied Science in Data, Economics, and Development Policy from <a href="https://economics.mit.edu/academic-programs/masters-programs/masters-data-economics-and-design-policy-dedp">MIT</a> and Bachelor of Engineering from <a href="https://www.si.t.u-tokyo.ac.jp/">the University of Tokyo</a> in 2023.
 </div>
 
 <!-- <br> -->
