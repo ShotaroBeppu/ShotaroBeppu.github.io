@@ -1,10 +1,10 @@
-# Basic Information 
+# Basic Information
 title: Shotaro Beppu
-position: Project Associate
-affiliation: UChicago Urban Labs E&E Lab
-affiliation_link: https://urbanlabs.uchicago.edu/labs/energy-environment
-email: shotarobeppu0811@gmail.com
-email_link: mailto:shotarobeppu0811@gmail.com
+# position: Project Associate
+# affiliation: UChicago Urban Labs E&E Lab
+# affiliation_link: https://urbanlabs.uchicago.edu/labs/energy-environment
+email: shotarobeppu@g.harvard.edu
+# email_link: mailto:shotarobeppu0811@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,16 +12,15 @@ keywords: Shotaro Beppu
 description: Personal website of Shotaro Beppu
 canonical: https://shotarobeppu.github.io/
 
-# Links 
+# Links
 # If you don't need one of them, you may delete the corresponding line.
 # google_scholar: https://scholar.google.com/citations?user=ygPDGzQAAAAJ&hl=en
-cv_link: ./assets/files/cv/shotarobeppu_cv_website.pdf
+# cv_link: ./assets/files/cv/shotarobeppu_cv_website.pdf
 # github_link: https://github.com/shotarobeppu
 # orcid: https://orcid.org/0000-0003-4476-2288
 
-
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/self.jpeg
 favicon: ./assets/img/uchicago.png
 favicon_dark: ./assets/img/uchicago.png
