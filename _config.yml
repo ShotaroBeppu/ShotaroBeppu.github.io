@@ -1,10 +1,10 @@
 # Basic Information
 title: Shotaro Beppu
 # position: Project Associate
-# affiliation: UChicago Urban Labs E&E Lab
-# affiliation_link: https://urbanlabs.uchicago.edu/labs/energy-environment
-email: shotarobeppu@g.harvard.edu
-email_link: shotarobeppu@g.harvard.edu
+affiliation: email
+affiliation_link: mailto:shotarobeppu@g.harvard.edu
+# email: shotarobeppu@g.harvard.edu
+# email_link: mailto:shotarobeppu@g.harvard.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
